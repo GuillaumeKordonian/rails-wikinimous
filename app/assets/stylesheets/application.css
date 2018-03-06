@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+.title-index {
+  width: 1000px;
+  background-color: rgb(240, 240, 240);
+  padding: 20px;
+  text-decoration: none;
+}
+
+.title-index h2 {
+  font-size: 25px;
+  color: rgb(0, 0, 64);
+}
+
+.article-index {
+  padding: 0px 20px;
+  height: 40px;
+}
+
+p {
+  font-size: 20px;
+}
